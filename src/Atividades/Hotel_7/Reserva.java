@@ -1,4 +1,4 @@
-package Atividades.Hotel;
+package Atividades.Hotel_7;
 
 public class Reserva {
     private String hospede;
